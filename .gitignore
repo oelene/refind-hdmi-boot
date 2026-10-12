@@ -1,0 +1,17 @@
+/build/
+*.obj
+*.exe
+*.efi
+*.pdb
+*.ilk
+__pycache__/
+*.vhd
+*.vhdx
+*.vtoy
+*.zip
+*.log
+.env
+.env.*
+/private/
+/logs/
+/backups/
